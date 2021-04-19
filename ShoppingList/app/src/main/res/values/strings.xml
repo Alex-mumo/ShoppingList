@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="enter_item">Enter Item</string>
+    <string name="add_items">Add Items</string>
+    <string name="welcome">WELCOME</string>
+    <string name="enter_the_price">Enter the price</string>
+</resources>
